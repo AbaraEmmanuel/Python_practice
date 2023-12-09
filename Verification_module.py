@@ -1,6 +1,6 @@
 def verification():
     import random
-
+    print("Please confirm you're a human before continuing")
     n = random.choice(
         [
             "3467y59?",
