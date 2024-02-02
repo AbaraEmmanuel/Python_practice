@@ -1,1 +1,1 @@
-This contains a basic verification module, an arithmetics module and Algebra_Calen prints a calendar or perform any arithmetics using the two modules.
+This contains a basic verification module, an arithmetics module and Algebra_Calen prints a calendar or perform any arithmetics using the two modules, a salebot manager that evolutionizes sales transactions, addressing critical challenges across industries like retail, e-commerce, and hospitality.
