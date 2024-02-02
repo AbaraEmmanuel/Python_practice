@@ -1,13 +1,3 @@
-"""
-Create an Ai that performs sales
-Shows you list of items available in store and their prices
-Gives you the oppourtunity to input whatever you want and the amount of the item
-Ask you if you want any other thing
-Calculates, show you total of what you want to buy. 
-"Then you move to the cash..., make payment via your card, and collect the item you want"
-It greets you!
-"""
-
 listofgoods = []
 prices = []
 
